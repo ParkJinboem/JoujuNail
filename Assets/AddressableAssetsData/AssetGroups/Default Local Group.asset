@@ -1,0 +1,1480 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4a9647c5a94f24bda936e0f877d004df
+  m_SerializeEntries:
+  - m_GUID: f3f62c51a14624e15a188489b6b3fca4
+    m_Address: Manicure
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Data
+  - m_GUID: e31f9fb0665a04e7c8f6d97d6d528fdc
+    m_Address: QuestHand
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Data
+  - m_GUID: 5eb7326b513c1448c9aa71546e161461
+    m_Address: QuestPattern
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Data
+  - m_GUID: c6b027d71f65c4d84a950b71c6df2391
+    m_Address: QuestSticker
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Data
+  - m_GUID: 80c7b2db7675f4301af435c7579fddfb
+    m_Address: QuestFinger
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Data
+  - m_GUID: e595bd30276e04ebabb9f9fd8ca6cc3b
+    m_Address: HandFootParts
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Data
+  - m_GUID: 2f061dadf2ecc426aa1ad58b7fef81d1
+    m_Address: AnimationSticker_001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 33f482d0c2a7a41959544793371cb6c5
+    m_Address: AnimationSticker_002
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 9caf8340ee65b4120b9503aa95d7f709
+    m_Address: AnimationSticker_003
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: ffe694bde1c0f4984b6af0286bc9fd43
+    m_Address: AnimationSticker_004
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 32035581e1ace48cca9e6e77974a1f7d
+    m_Address: AnimationSticker_005
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 07c38b264fc3946068c5b6d2bdca3a19
+    m_Address: AnimationSticker_006
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: d26cbfc7b6dc549eda5b0aed08a9140a
+    m_Address: AnimationSticker_007
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 06b113346a02946468d8f8b9219d492a
+    m_Address: AnimationSticker_008
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: bec474721f1d64001a8f330a022457dd
+    m_Address: AnimationSticker_009
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: a7501cd1f63e841da9d5407857cffb6b
+    m_Address: AnimationSticker_010
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 3e200893ad6114851a7d18624ca52886
+    m_Address: AnimationSticker_011
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 6105db7bfaffe490488e0f4b304ebdce
+    m_Address: AnimationSticker_012
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: a9d0b40c8faeb4cb092b501bf4641a9a
+    m_Address: AnimationSticker_013
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: fd66b398c934246f2a86c7d506c001a6
+    m_Address: AnimationSticker_014
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: a4c63c0624b494fb3abcd343fb5480fb
+    m_Address: AnimationSticker_015
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: e7ce63cd063ad46a0b2888bc18135c89
+    m_Address: AnimationSticker_016
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 630c8fed277cf493faae9d6e29015d70
+    m_Address: AnimationSticker_017
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: b7989634ca6ae4fd5bf038de8128bb61
+    m_Address: AnimationSticker_018
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: a0f61f641643648a58591b5c95de17d4
+    m_Address: AnimationSticker_019
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: e09709fa76b5a4a49aea980f56a89f0b
+    m_Address: AnimationSticker_020
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 44b5a117b08104c4eb976dcd67967765
+    m_Address: AnimationSticker_021
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 8107ce4efa5cd446a8f266d05381c0ee
+    m_Address: AnimationSticker_022
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 307b309f1e4664b469c5e95346fdb680
+    m_Address: AnimationSticker_023
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 6e7437940416c4c8e985d16ed82c06b7
+    m_Address: AnimationSticker_024
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: dd1867a7f00d24412b8668a9b298f055
+    m_Address: AnimationSticker_025
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 6c1ffd16f113b437c9924ad662fd0c6d
+    m_Address: AnimationSticker_026
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: a42672f4a8dc446099e81764891a75ca
+    m_Address: AnimationSticker_027
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 16bfd79e4af9443d7b36123e6af51d67
+    m_Address: AnimationSticker_028
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 22a353c123e1e4aef96a0e3643fcfd1a
+    m_Address: AnimationSticker_029
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 9b22d204895574b30b5aeab2844b3ae4
+    m_Address: AnimationSticker_030
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 20d445f4c060b422285ce2a26e1538b5
+    m_Address: BigBrush_001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 08812f683d96247b4a0f5aecbf713fc1
+    m_Address: BigBrush_002
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: f5ec3c2d25f654918b05a59a1b6644b2
+    m_Address: BigBrush_003
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 2508fbe0a243e40bab7073937df47ce1
+    m_Address: BigBrush_004
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 4488f7b9216d44516a0de7955760aef7
+    m_Address: BigBrush_005
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: d89867d4fb334482eb5a108237421060
+    m_Address: BigBrush_006
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 9ac8a25149ed24ba39a01dab4c62b86e
+    m_Address: BigBrush_007
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 0d4562aa3539b4ccc9ad89e844e69002
+    m_Address: BigBrush_008
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 9717cc7454b6e46da8f084412c6df9ae
+    m_Address: BigBrush_009
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 88cc3cdcdfab646de806d0654de5b743
+    m_Address: BigBrush_010
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 03c76f22641e7419487f1776c1c575db
+    m_Address: BigBrush_011
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 20d837925132244109ad5e2dafbab8aa
+    m_Address: BigBrush_012
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 5761e005842fc45af8334019fdc948cc
+    m_Address: BigBrush_013
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 7c7eb47d8bd89424da83cc39121c519f
+    m_Address: BigBrush_014
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: e2de9345a7c9a4be89c5f8cec5d53ccd
+    m_Address: BigBrush_015
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 573f1b25feba841be81fc8059853a986
+    m_Address: BigBrush_016
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 23f2774d60bbe44af9e85691f04ff26b
+    m_Address: BigBrush_017
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: d636c1780a20643ebba4582a09986ce7
+    m_Address: BigBrush_018
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 2f5c6ca56c59b48e7a1eea5ceeff1597
+    m_Address: BigBrush_019
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 672a1c3f547574f248dabe8d509b22bc
+    m_Address: BigBrush_020
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 11a43a6fc97104b489c6f175186b2eb8
+    m_Address: BigBrush_021
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: adcd5653b2cac4e16a64d24b865e11d7
+    m_Address: BigBrush_022
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: e9b377c921ef4411586dc511c346f23c
+    m_Address: BigBrush_023
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 62f33e48c16de48b5abe819b35797ee5
+    m_Address: BigBrush_024
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 2a5f25bb19ce349ee9ef5624b71a4fb3
+    m_Address: BigBrush_025
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 937d02e8169ab497d8b5dd6db55e27e0
+    m_Address: BigBrush_026
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 34a4c335cbe85411a86e125b5811cdee
+    m_Address: BigBrush_027
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 76b2672a06a22447d8c48b295ad64004
+    m_Address: BigBrush_028
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 2867ff6d21f8d4c23bfa39459a6e24e0
+    m_Address: BigBrush_029
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 21b55f96a46b94d928249e1f45a08d14
+    m_Address: BigBrush_030
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 3fc6116ab97f743cf9c3595890971784
+    m_Address: BigBrush_031
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 16eebc26dd0204cbebbc149110b1a003
+    m_Address: BigBrush_032
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: ad5b16ffcdea045ee98a69e846d8d898
+    m_Address: BigBrush_033
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 6ed69c12193184bc183b4f71dc8ab31b
+    m_Address: BigBrush_034
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 421713a84114748dfb6d9ec09ed8b627
+    m_Address: BigBrush_035
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 85f6e9ae8d59b4eecb5313dbc824cbe2
+    m_Address: BigBrush_036
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 73a75d8b36c9d48629f4b69862d9ed2e
+    m_Address: BigBrush_037
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 85c68e345b0be4e6aab43108c4cd2751
+    m_Address: BigBrush_038
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: f5c5be5bfdaa44232ab7049f9639362e
+    m_Address: BigBrush_039
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: c05244a6018f448ae9a67ce417d178d6
+    m_Address: BigBrush_040
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 15f98cf5cd7804851bfbcc11d6a1969f
+    m_Address: BigBrush_041
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 5722245e7da5d4bfbb6a7a1d24d36791
+    m_Address: BigBrush_042
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: a439c791eaf99418fb7916d856c6dc24
+    m_Address: BigBrush_043
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: acb9c9846ff834519abb96752f1792a4
+    m_Address: BigBrush_044
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: fc654e9d56e5840bd918049d41ed9874
+    m_Address: BigBrush_045
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 3055968546d21409ab36f42cc659f6ae
+    m_Address: SmallBrush_001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: f0bb3f52391234ac28a8610b6123b589
+    m_Address: SmallBrush_002
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 3b4477bedde9f40669413271c9e3786b
+    m_Address: SmallBrush_003
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 42e791efc30dd448f9374e09274c74b7
+    m_Address: SmallBrush_004
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 8ea229096b44b4f8a837e38f9cbb7dfa
+    m_Address: SmallBrush_005
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: f0d23846e56274cab820b76a11c5bcd1
+    m_Address: SmallBrush_006
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 14b27737df4144a33ad6c776b0168ba7
+    m_Address: SmallBrush_007
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: c74f6dcce0203438b8f269a52a98ec3f
+    m_Address: SmallBrush_008
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: bb9b6a02bf0c54195b48d034662f53c5
+    m_Address: SmallBrush_009
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 7132fff8cada24653a0c94c3b4bde71e
+    m_Address: SmallBrush_010
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 5841c00e2091c447c90de1741d7e0a7e
+    m_Address: SmallBrush_011
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: ba578af16bddc4c00bf600d36544799f
+    m_Address: SmallBrush_012
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: b845ec9bca7b04a6faf11fd0292c84c3
+    m_Address: SmallBrush_013
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: a717725707ecb4e7498c9e779d5f4613
+    m_Address: SmallBrush_014
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: fd521f13d7c984f4da8deaabcad68224
+    m_Address: SmallBrush_015
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: a7ce0e7ec08ba45eebb095c423099df0
+    m_Address: SmallBrush_016
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 5840b124d4b6d496bab9d088d9507d07
+    m_Address: SmallBrush_017
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 3e2a7f7394c744a7ab8db56b96b31a88
+    m_Address: SmallBrush_018
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 8345aa97ba5954e90a126013bba421af
+    m_Address: SmallBrush_019
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: fe4b8da24c71045389bbb541ceebb42b
+    m_Address: SmallBrush_020
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 88629dc9542604bb38f9184210347b42
+    m_Address: SmallBrush_021
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 64f8719d7b8cb40479f6e3cf04ddba61
+    m_Address: SmallBrush_022
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 07bb39048edec4c0fae969a2f62cdf41
+    m_Address: SmallBrush_023
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 077bd5a96df374dacbce7d7c89005047
+    m_Address: SmallBrush_024
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: f7f41cc817c03467ba3dd21df764bdff
+    m_Address: SmallBrush_025
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 4ff230d38f4f2414e8cc8b3b8519d301
+    m_Address: SmallBrush_026
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 8b97bc5bbf08c47b08e93dcdff1a9e82
+    m_Address: SmallBrush_027
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 8b6fdd41d678444f3881fb359c2efdd6
+    m_Address: SmallBrush_028
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 2bccf201bdc9b4074b84afc54026a129
+    m_Address: SmallBrush_029
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 85c63b7b2adaf4ebe936d6b1bc222f7e
+    m_Address: SmallBrush_030
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 8d68e56f22a904aeab99708595f71905
+    m_Address: SmallBrush_031
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: a63cc553d66d347b39ed149397d0c789
+    m_Address: SmallBrush_032
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 667e822d1ce2648b4bd9aead8e7559bb
+    m_Address: SmallBrush_033
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: b7d0ad3bc4b044e6699f0d3072e07253
+    m_Address: SmallBrush_034
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 0d0e3bddc30f4450db886d62015b3f14
+    m_Address: SmallBrush_035
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 72cee431461164d82a22b803cb1ef927
+    m_Address: SmallBrush_036
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: b2c1a16e4ff974ef1b08decbbfd76941
+    m_Address: SmallBrush_037
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 91db37b85095e40cca230598fcf8f9b4
+    m_Address: SmallBrush_038
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: a0ceed73063e34bba8cf0adc8a5b42f9
+    m_Address: SmallBrush_039
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 70737945819734b4fa56fdbcd97f9986
+    m_Address: SmallBrush_040
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 118795774d299499aa3d4ea069f434c5
+    m_Address: SmallBrush_041
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: b85c27e5bcbd7465c813814f24f9660c
+    m_Address: SmallBrush_042
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: cfe47d95a942249a987478d0c44f63e4
+    m_Address: SmallBrush_043
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 491fda5e672e6411083e5200885a9757
+    m_Address: SmallBrush_044
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 69db0218fa5c240aea8a74867ea31269
+    m_Address: SmallBrush_045
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 56f8be8c3fe0c417d88c98b727d67dbb
+    m_Address: SmallBrush_046
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: a6e261dd87f2e4cabb7e39f476985e8a
+    m_Address: SmallBrush_047
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: c77a96d4c0eaf4197ab0beb090199b86
+    m_Address: SmallBrush_048
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: e78f2cfd7c73146eda089b49304c37f1
+    m_Address: SmallBrush_049
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: cdd34b24acd8f41f5a660f14a819dcf9
+    m_Address: SmallBrush_050
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 0f59f8b0259f04acf9b1e1c2356d9206
+    m_Address: SmallBrush_051
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: ea3ed6a54581f4325834ca5fe4c6a296
+    m_Address: SmallBrush_052
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 30a9fd6133ff7451d8aaa01bd9ba2312
+    m_Address: SmallBrush_053
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 1fcf7fc3697924b5d8b89d8143f6aaee
+    m_Address: SmallBrush_054
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: b728799bbed074a298c699600c5d3ac4
+    m_Address: SmallBrush_055
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 2e4d7416e27b94af7af78e9175666c85
+    m_Address: SmallBrush_056
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 6928b68992fdd44c8a7d72349876cbfd
+    m_Address: SmallBrush_057
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 4bff050810acb4c7b9dd710f48540c77
+    m_Address: SmallBrush_058
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: cb29a70bc4e224d378f9102e8fa86651
+    m_Address: SmallBrush_059
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: fe958261fb5974f60b1398440f5e0e79
+    m_Address: SmallBrush_060
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 38f46bb01f4474e9ba51b5498c86e2b0
+    m_Address: SmallBrush_061
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 20a469f27569745619c0df2c501680b8
+    m_Address: SmallBrush_062
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 223b1cffb336c4f21854fb55f89139b2
+    m_Address: SmallBrush_063
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 413ae3e1797de40d49610fbd25a01510
+    m_Address: SmallBrush_064
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 435ff191bc43f4b489f708804accc0fc
+    m_Address: SmallBrush_065
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: b3db21790d66b445a8f85cf345c41dec
+    m_Address: SmallBrush_066
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 2c3c0aacd2efe4f6c90e82fb1707c18e
+    m_Address: SmallBrush_067
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: dcd7cd5f3f18542f2b0f5cffc2d45408
+    m_Address: SmallBrush_068
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: f656587d02af24c5ca14c2cf3eb60198
+    m_Address: SmallBrush_069
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 6d4988ac6dd3b4c14b5d3cfab1958f5f
+    m_Address: SmallBrush_070
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 6b95d7ae215ed4de4bd80b837892834d
+    m_Address: SmallBrush_071
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 9c309096eef4648c9a7cc8f6ae941ce6
+    m_Address: SmallBrush_072
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: ef0c300f3e0a34b6da98b4d6aa94b320
+    m_Address: SmallBrush_073
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: df988aed081c042cfb95965fe3c7e965
+    m_Address: SmallBrush_074
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 2a29d880605db4c29a0da372de3913c6
+    m_Address: SmallBrush_075
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 74d65460d961b4d65a1d53c7c2e01444
+    m_Address: SmallBrush_076
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 2b2d18334006e4160842323f58a7ae81
+    m_Address: SmallBrush_077
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 4371709956dba4d7fb48abaf95e22085
+    m_Address: SmallBrush_078
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 4347bad8edae541719eacde672a0556b
+    m_Address: SmallBrush_079
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: dcc7d58c92c204d1da0bdcc1249505ad
+    m_Address: SmallBrush_080
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: f78c8a602e187462cb50679de10b7924
+    m_Address: SmallBrush_081
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 16c3ecb7fb127469dababd5a8c268b65
+    m_Address: SmallBrush_082
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: b535ba7a9c5b54416bc3ffdc1e47748f
+    m_Address: SmallBrush_083
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: e2edc24080a864c5fb7c6657121ae3ad
+    m_Address: SmallBrush_084
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 109c5b575cd59432ab4623f8da3ed736
+    m_Address: SmallBrush_085
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 5272fcaf70bb2428da6c0cf2afc97d4d
+    m_Address: SmallBrush_086
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 4726015c17113402a964a5921b6c704a
+    m_Address: SmallBrush_087
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 9a38bcc33cde4423681b085f9eff1291
+    m_Address: SmallBrush_088
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 60dcd87d779674cdaa4ae74d4a2ce08a
+    m_Address: SmallBrush_089
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: bc061b40e3b53457d85369e079e96336
+    m_Address: SmallBrush_090
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: e037a659b05c944f084978d0c55de035
+    m_Address: SmallBrush_091
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 656e389d7a476482f818c7054d53fa3d
+    m_Address: SmallBrush_092
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 5540c530b0baa4b8b88e32ca94b376af
+    m_Address: SmallBrush_093
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 18a6c53cf683844afa357dd30a7b0bc0
+    m_Address: SmallBrush_094
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: b593a6890606b4287afb131add1bc6e6
+    m_Address: SmallBrush_095
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: b43f8b0f6c421444688f64a0f2752183
+    m_Address: SmallBrush_096
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 65ddcf8700e9f485ba5cb561686b5570
+    m_Address: SmallBrush_097
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: ba5cf371e9e9f44e1a80fb5c9191aca8
+    m_Address: SmallBrush_098
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 4387618af649040a1a829380ece88144
+    m_Address: SmallBrush_099
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 23573e7283ef94d04afcb842b43be95b
+    m_Address: SmallBrush_100
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 02b57c8f9ad9a4b59a8cda723b9aa026
+    m_Address: SmallBrush_101
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: a69fcf5972d8b46dc8187d4854669a39
+    m_Address: SmallBrush_102
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: b439df0546641490583b8bcd7bca97d9
+    m_Address: SmallBrush_103
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 5dca58d37a5de460c9fb1e38b1f65a02
+    m_Address: SmallBrush_104
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: f0e49d09827cd4b929bfc7e8ace98d70
+    m_Address: SmallBrush_105
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 6d84a9cbb706f47afa86eab8ba3b9105
+    m_Address: SmallBrush_106
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 3c40e845cdfeb492eb9503cd527c49aa
+    m_Address: SmallBrush_107
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 16c1861ceab5b42e5a1bac2600c491c7
+    m_Address: SmallBrush_108
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 5065aaaac81ad4161bada71d12eceb6d
+    m_Address: SmallBrush_109
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: a05885fd5e4184a7a9d61bc9236a4bf7
+    m_Address: SmallBrush_110
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: fffb460c4f952414ba0793a660c5d811
+    m_Address: SmallBrush_111
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 65af4e3a1bfaa45a687645498ec7589a
+    m_Address: SmallBrush_112
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 80e26855fd19e428aaaed0fc0990b5d0
+    m_Address: BigBrush_112
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: b9b3cf84a5144414984cda71f78ccbef
+    m_Address: BigBrush_046
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 953fe45bd6071457ba8e7b6fdd452388
+    m_Address: BigBrush_047
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 1f103abcdb1294830885dba36bb6c1c0
+    m_Address: BigBrush_048
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 333592a3198704659b1b9657134b64a7
+    m_Address: BigBrush_049
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: e05ee97f91a5c4396a0c9dac44e4a01f
+    m_Address: BigBrush_050
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 8660d4298c1904345b26332a737af8dd
+    m_Address: BigBrush_051
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 84ecdc9d0a377455993c71e2bfdf828b
+    m_Address: BigBrush_052
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 956db9c19ead246c89852f4c83f753ae
+    m_Address: BigBrush_053
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 16f43ade6b3db43c1a7d73c586533028
+    m_Address: BigBrush_054
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 0d82e9bc5f4584321b4d3fcd0811de80
+    m_Address: BigBrush_055
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 138d7802f39654166adcbd4abfd031e0
+    m_Address: BigBrush_056
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 9f428d2f52d6a48cb9aab496331cb903
+    m_Address: BigBrush_057
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: bacd5fccf08464cf8bd2e4e87a25727e
+    m_Address: BigBrush_058
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 4240f1456190b4a489e3e50f0bd21d86
+    m_Address: BigBrush_059
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: af34e2c3aa99f4a7d9da11f7dd12415b
+    m_Address: BigBrush_060
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 3e2b1890d9a104139a6c65bb309987b1
+    m_Address: BigBrush_061
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 37b81fc82fcb94e8f85f85db13884d91
+    m_Address: BigBrush_062
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 3fb2f360bec37482d8679cec8a4fcf25
+    m_Address: BigBrush_063
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: e178a21b2cfc74b538a414540de01801
+    m_Address: BigBrush_064
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: eb0dbb05a7c8e4c11be87127f10b627a
+    m_Address: BigBrush_065
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 47a48aaaa8da8453f9de4206f5d8d643
+    m_Address: BigBrush_066
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: e2c3d3cec8ff848198818b5de3f0e3e2
+    m_Address: BigBrush_067
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 1ade51471c0e246ec859a2025b11f010
+    m_Address: BigBrush_068
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 12e9d620b9e5649089d9f6304dcb513d
+    m_Address: BigBrush_069
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: af6372b8cc665485a8459d1fa683ae09
+    m_Address: BigBrush_070
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: ff32ffea266594ca692b79f2d1985850
+    m_Address: BigBrush_071
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 2bb8d6240e4a645dab01afa5f3b379fd
+    m_Address: BigBrush_072
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: e2d29afd0bf1a49b0a2ea7f297e86f1c
+    m_Address: BigBrush_073
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: d2122ed6148da4fd781f3506289a4684
+    m_Address: BigBrush_074
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 8ead98577ba994088a6f418a4de6d4ed
+    m_Address: BigBrush_075
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 34bcff0402d124452a3566bbcfdbe263
+    m_Address: BigBrush_076
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: a44fad0f18fa34f93885b725489c38de
+    m_Address: BigBrush_077
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: f7a8540e7a0984fd593e901979d8875e
+    m_Address: BigBrush_078
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: a46be2050074d4958a8e446fb7a064ad
+    m_Address: BigBrush_079
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 22532d154945c49f082c63579bc42ce6
+    m_Address: BigBrush_080
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 7a7893f7ea3ec4e94ae6d8834aef72ca
+    m_Address: BigBrush_081
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 3de6fa718de3f45429f824445a3876b4
+    m_Address: BigBrush_082
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 1b4f16194a9a149e988d5ddbec3a92e9
+    m_Address: BigBrush_083
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: cb88e9b86c00443e9b7776718eab3ba1
+    m_Address: BigBrush_084
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: fe3f4f8007f074ae3b6b86df257bee9c
+    m_Address: BigBrush_085
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 7df42b8ecdee948cb90e19bb31b990b5
+    m_Address: BigBrush_086
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: cac7b9496347540b682923b6e8b52cb9
+    m_Address: BigBrush_087
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: a1488ffd403ec4dd88867e2ece864305
+    m_Address: BigBrush_088
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: e67c9568ec5524d31b62659499c5a4e4
+    m_Address: BigBrush_089
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 5cddf76ec1a634fea9f2d3f72faf34ab
+    m_Address: BigBrush_090
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: d54568e8bfcd24dd5a80160a1523be91
+    m_Address: BigBrush_091
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: bde255e17745a43b19e563d7cebee993
+    m_Address: BigBrush_092
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 4c07dbd35886548d6a9979fd3005cece
+    m_Address: BigBrush_093
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: a8cf28fd3356245d3a03f3320a00068a
+    m_Address: BigBrush_094
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 698ebb4ee27f44cf29b0daed381fcb30
+    m_Address: BigBrush_095
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: be0c3e996d53d4686b4a26c9ab75d121
+    m_Address: BigBrush_096
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 7199f420f400343c3bdb5934aaf6d2fc
+    m_Address: BigBrush_097
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 367d58d162ee74e30bc0ba1b26366f68
+    m_Address: BigBrush_098
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 2c8544def108743d7a70d17023d6c42d
+    m_Address: BigBrush_099
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 74d7cad90c5bc40b4b4b627da8c78d14
+    m_Address: BigBrush_100
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 5afcb1cb3ecbe4dcd9f4c141e9e5b10e
+    m_Address: BigBrush_101
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 187c6bc9968824695a2e40c689144c62
+    m_Address: BigBrush_102
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: d02063e8724364f6d906fb9c4faf7e67
+    m_Address: BigBrush_103
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: fd5b58b36055e4adc80ddf934eacc80f
+    m_Address: BigBrush_104
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: d99fce17f317342368528dca75387c67
+    m_Address: BigBrush_105
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: a526732b22817491391f4b30f86f0f4d
+    m_Address: BigBrush_106
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 1f2fc2861524a49e8b9de98fafaa4cda
+    m_Address: BigBrush_107
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 08d3227bc39114e7d84c7d2c9c8c08f7
+    m_Address: BigBrush_108
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: ced7751a96de845d3bd4466dbec82893
+    m_Address: BigBrush_109
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 1e4823cf63fd842299131c7defdb3b99
+    m_Address: BigBrush_110
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 288bffc222dfd4e36889f4341f0fd792
+    m_Address: BigBrush_111
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: ea53deaabc6a04fddb68d4b53e20a4e9
+    m_Address: QuestGuideSticker1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 02bdaf2c72dec45b0b51ee85f15eee55
+    m_Address: QuestGuideSticker2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: d9bd863ceabc8432eb065da48963d600
+    m_Address: QuestGuideSticker3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 7f00b42d88c7848fabb40a39d3e56988
+    m_Address: QuestGuideSticker4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 086ff7003d5f94efcbae6a106537ca2e
+    m_Address: QuestGuideSticker5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 39e8023ec441349558aa2da8e9ecc03e
+    m_Address: QuestGuideSticker6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: d35c4bb86ad304b54bd6d5a458d68365
+    m_Address: QuestGuideSticker7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: ca02e23a31ff14936a378fc1a251089e
+    m_Address: QuestGuideSticker8
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: ea54a030ceb17457a9720d72b27d3f2c
+    m_Address: QuestGuideSticker9
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 8a34ed04a4d3a4aba9971a84c87e94b9
+    m_Address: QuestGuideSticker10
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 50f75536fad274c10b352ac4e025d17f
+    m_Address: QuestGuideSticker11
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: b75b884d5b6b342b49de1ba9ec0bbcde
+    m_Address: QuestGuideSticker12
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: ecfd5bfd500c9456b86a8be3c4c4e2ff
+    m_Address: QuestGuideSticker13
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 0be0905f0cdbd467bb515c85c3ac5024
+    m_Address: QuestGuideSticker14
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 9b95e704067ac48a6b272cab33df6fc9
+    m_Address: QuestGuideSticker15
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 3279a68b2a5fe4fb5af877ec7ad36174
+    m_Address: QuestGuideSticker16
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 23468820bc7924e189ef57d522434fa8
+    m_Address: QuestGuideSticker17
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: b1713757243e1453d8e413d02f892240
+    m_Address: QuestGuideSticker18
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 8f72b83671f9e48968a2da7457eea658
+    m_Address: QuestGuideSticker19
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: f385f8c17a24f4a79861bc2e064f8775
+    m_Address: QuestGuideSticker20
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 4b72894a0628c44c9974b0cc7ce56bb4
+    m_Address: QuestGuideSticker21
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: b99a3dabf712a4529b4af51615b15e17
+    m_Address: QuestGuideSticker22
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 27e49aeba9f824602a57383213d81826
+    m_Address: QuestGuideSticker23
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 53f8c7b4c997d45f0ad6148074d6f7f8
+    m_Address: QuestGuideSticker24
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: a650218c9061342fd96d9d348b91fe9e
+    m_Address: QuestGuideSticker25
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 8ebf05ad849fb4b4fbe478fb88dc2ef1
+    m_Address: QuestGuideSticker26
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 65cc46fa105f641ed9c8f43035512050
+    m_Address: QuestGuideSticker27
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 520da7f211a0d4715b6d99f4c7fc4999
+    m_Address: QuestGuideSticker28
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: ddb2058fdf03242c8918cab3cb5bb1a2
+    m_Address: QuestGuideSticker29
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 9402c43ccb99647c383e378915ae1ada
+    m_Address: QuestGuideSticker30
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterStickerObject
+  - m_GUID: 3619ab20e9676414cab05d2566eeb253
+    m_Address: Reward
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Data
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: fba03cf051c4d4db18a763d3238ec379, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c7b4a5ad1ef1f49d39a367b9ee15c16d, type: 2}
+    - {fileID: 11400000, guid: d542ccd4550c54fbd9a0239168d9251d, type: 2}

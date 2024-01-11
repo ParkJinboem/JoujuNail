@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HandSprites
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 31eabe5f9f4274f8997bc1843fb96aea, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: fd82e7029c2d64d2d924a2988e145155, type: 3}
+  - {fileID: 21300000, guid: 41230e72d52a446b6ab671b209ffad93, type: 3}
+  - {fileID: 21300000, guid: b3ce8993c74ec46f286d7e3e5a5ceb3b, type: 3}
+  - {fileID: 21300000, guid: d1275915e51094cc18d3e59271e78423, type: 3}
+  - {fileID: 21300000, guid: fc6594761285b4ff2ba3925e571e219e, type: 3}
+  - {fileID: 21300000, guid: ecc3fea759f244ed592a0de814fa6cb5, type: 3}
+  - {fileID: 21300000, guid: 5e032808bd72543f6a2a977d29aab1a3, type: 3}
+  - {fileID: 21300000, guid: 4b67a858661304d9997bbff6ee635ab5, type: 3}
+  - {fileID: 21300000, guid: 4f9e142a518e342b18da7bda3627cba3, type: 3}
+  - {fileID: 21300000, guid: 5be4183b9d4544409b07578240fe797b, type: 3}
+  - {fileID: 21300000, guid: 5a103f9bc5057490f9f4fefc0d7166e4, type: 3}
+  - {fileID: 21300000, guid: 70a6cbbb53fbc48ccab73a4c1cb700f9, type: 3}
+  - {fileID: 21300000, guid: cd31be8df118c4e27a037c154fe1fbf2, type: 3}
+  - {fileID: 21300000, guid: a2b6e9beb50f14f84a401144e5aca9a3, type: 3}
+  - {fileID: 21300000, guid: f6f6e48fe2c2740b4a62acb328f7782d, type: 3}
+  - {fileID: 21300000, guid: e7364fcfb0ffb4471b2d8d1c5d29d6c6, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Hand_001
+  - Hand_009
+  - Hand_013
+  - Hand_012
+  - Hand_014
+  - Hand_016
+  - Hand_003
+  - Hand_004
+  - Hand_015
+  - Hand_007
+  - Hand_002
+  - Hand_005
+  - Hand_010
+  - Hand_006
+  - Hand_011
+  - Hand_008
+  m_RenderDataMap: {}
+  m_Tag: HandSprites
+  m_IsVariant: 0

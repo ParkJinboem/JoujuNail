@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43801c138e02547cb95e7c43598d0ae6, type: 3}
+  m_Name: TutorialScriptable
+  m_EditorClassIdentifier: Assembly-CSharp::TutorialScriptable
+  KeyByLinkTutorials:
+  - tutorialId: 1
+    tutorialObject: {fileID: 8586552726584276652, guid: c66d0735542854d7e86a5b26c05e5971, type: 3}
+    isClear: 0
+  - tutorialId: 2
+    tutorialObject: {fileID: 2908105985142468276, guid: 0801dfa7786e54f16923f0d38977b8bb, type: 3}
+    isClear: 0
+  - tutorialId: 3
+    tutorialObject: {fileID: 2908105985142468276, guid: dc74284d0b20f4d4594866376c561531, type: 3}
+    isClear: 0

@@ -1,0 +1,280 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FingerNailMaskSprites
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: de0027bafe055405e8f71d8a365b3811, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 57cf0320d584841b288df8e77cb1be3a, type: 3}
+  - {fileID: 21300000, guid: d6479f40d0d25432994694c04e6e717f, type: 3}
+  - {fileID: 21300000, guid: d1751850f21244d9a9678231cee14ea9, type: 3}
+  - {fileID: 21300000, guid: 35c44f607aca24342aae4130c9102b55, type: 3}
+  - {fileID: 21300000, guid: c86ee3705eaff479798ab8b57566a417, type: 3}
+  - {fileID: 21300000, guid: 5d6ea9b0e5df54ec7ab1333a2dae2b19, type: 3}
+  - {fileID: 21300000, guid: e95c6b01a2db24fe09334650a8458fe3, type: 3}
+  - {fileID: 21300000, guid: 7a3e23315e57d4dc382f44704c9876f9, type: 3}
+  - {fileID: 21300000, guid: e986544165df1442aaac8db719aec859, type: 3}
+  - {fileID: 21300000, guid: ffe9b9a168170453eaf9c508f685a6af, type: 3}
+  - {fileID: 21300000, guid: 914125324d1b741e8a49233b8b86b5a1, type: 3}
+  - {fileID: 21300000, guid: 91c0b4d2b1d35421e8e8519a740cb1c3, type: 3}
+  - {fileID: 21300000, guid: 76a7d6d26111e4218ad2b1982850c579, type: 3}
+  - {fileID: 21300000, guid: da8012036a30a4926a8c15ec3c64358d, type: 3}
+  - {fileID: 21300000, guid: ee184023773434de4a60aab96e07fce8, type: 3}
+  - {fileID: 21300000, guid: 7a91a9236a4dd4ed3afa3f6ddd2d923f, type: 3}
+  - {fileID: 21300000, guid: 760d0d334dfaf43769631694e44f9703, type: 3}
+  - {fileID: 21300000, guid: ff520243c95a548f8a559a25d0b5b1b6, type: 3}
+  - {fileID: 21300000, guid: e14d47938d94a499e9c301cdceb5ab7c, type: 3}
+  - {fileID: 21300000, guid: 031677c3509f44bf6859ac095c974dd3, type: 3}
+  - {fileID: 21300000, guid: 20ed2bd35b8064566bf5f078adfe901f, type: 3}
+  - {fileID: 21300000, guid: 64b344f393e2d439c967318d112ee429, type: 3}
+  - {fileID: 21300000, guid: c5b40504b0ca64ce4a0e1f5487e6f5f6, type: 3}
+  - {fileID: 21300000, guid: 5ec5ec24a237f41afa912cdbf4f5104a, type: 3}
+  - {fileID: 21300000, guid: dd523734de6ab46f8a4c68fbc4122a85, type: 3}
+  - {fileID: 21300000, guid: 2f1d6344c5fea43939a0e2faca924e56, type: 3}
+  - {fileID: 21300000, guid: 87a878545a3d742dfaf7f3293c37e6ee, type: 3}
+  - {fileID: 21300000, guid: 6d75abd45b8c946e09e65c8cd0b6bb5d, type: 3}
+  - {fileID: 21300000, guid: 369ef715b356848f6b38346ccdfdc1b0, type: 3}
+  - {fileID: 21300000, guid: 8c497f5598c13466583c1f8f8ae55b97, type: 3}
+  - {fileID: 21300000, guid: 34689aa51e8ce4994b5292bab6ad71f2, type: 3}
+  - {fileID: 21300000, guid: eb9a93b5108584c62bcc2e726a35baaa, type: 3}
+  - {fileID: 21300000, guid: 1f8057b5eeaac486d969a4693e8c3c86, type: 3}
+  - {fileID: 21300000, guid: d0220ed564b864da8b5b9a6044f75570, type: 3}
+  - {fileID: 21300000, guid: 78ad3b06e1d9b45ce870e90fc00ab3b3, type: 3}
+  - {fileID: 21300000, guid: d61a0376d6f264539ae64266dd009951, type: 3}
+  - {fileID: 21300000, guid: f20f82a6f863145d28df0d078f0ea805, type: 3}
+  - {fileID: 21300000, guid: 95a6a2a6f7533413f8888ddab1b3d5a4, type: 3}
+  - {fileID: 21300000, guid: 6d54f9a6622244740a7d61e3e0db5038, type: 3}
+  - {fileID: 21300000, guid: 11049ce62bff74f4fb8a5e78ff7689b3, type: 3}
+  - {fileID: 21300000, guid: 0bb03ee69148d43aaaaba0e133eec670, type: 3}
+  - {fileID: 21300000, guid: 9ae44d0740a8b4f5c941f1be36a85211, type: 3}
+  - {fileID: 21300000, guid: 74ed1827bee8843b2a8726205bf67d19, type: 3}
+  - {fileID: 21300000, guid: 679440670a413427f8f6f67eb0d71791, type: 3}
+  - {fileID: 21300000, guid: ba969a77a81974f49843c24dbbdbdd7e, type: 3}
+  - {fileID: 21300000, guid: 2d48a8a7e1fe2473c83cb3048449c864, type: 3}
+  - {fileID: 21300000, guid: 8c84a6283dbc74f419a55b0c6cb279fc, type: 3}
+  - {fileID: 21300000, guid: 81e62928b62214238a2523e6f74e2580, type: 3}
+  - {fileID: 21300000, guid: 401500686c8a74af79f4061cf68321d8, type: 3}
+  - {fileID: 21300000, guid: 072e2268354fe4ddcb0264b41cd09a75, type: 3}
+  - {fileID: 21300000, guid: c01d4f6848aba41ceb0f8e4a236e24f4, type: 3}
+  - {fileID: 21300000, guid: c3f940e853dba42bb9f7a478c50de3a7, type: 3}
+  - {fileID: 21300000, guid: be209949469064163a9c6ce31bf9cd55, type: 3}
+  - {fileID: 21300000, guid: b2284d496dbff4058b6627b00eb26852, type: 3}
+  - {fileID: 21300000, guid: 377e87698de454b9e9a36f2b9803fa7f, type: 3}
+  - {fileID: 21300000, guid: 503202f9220a84399aaf1a5f5f85a1ef, type: 3}
+  - {fileID: 21300000, guid: 1519c64aee95e458c90d94492aee3649, type: 3}
+  - {fileID: 21300000, guid: a9140c4a4993049cab45234e894ca062, type: 3}
+  - {fileID: 21300000, guid: 01f5536a331fc4ad584c19a59e5fa994, type: 3}
+  - {fileID: 21300000, guid: 331be2ba1cef84290b35a9d9e1fca277, type: 3}
+  - {fileID: 21300000, guid: 150554ba4989d48f88b5716790523ecb, type: 3}
+  - {fileID: 21300000, guid: fbba510b1481e46118fed47249463e16, type: 3}
+  - {fileID: 21300000, guid: 0879fa0bd31f8480a9edaf20454810cc, type: 3}
+  - {fileID: 21300000, guid: 9e885f0b422ac4d2887c07f92b5d11cb, type: 3}
+  - {fileID: 21300000, guid: ece77c4ba58c64d9b8833caf651b8cc2, type: 3}
+  - {fileID: 21300000, guid: 3b58948b62ea54885a5601a5636fda4e, type: 3}
+  - {fileID: 21300000, guid: 41f626ab5e7fe486b9d3af9ae4280dcc, type: 3}
+  - {fileID: 21300000, guid: fb7332cb89f9045a2b24f7a10230dcdd, type: 3}
+  - {fileID: 21300000, guid: 945cc5cbd01564fb09d409a2b8e8a662, type: 3}
+  - {fileID: 21300000, guid: 6cbeb90cca1de4171affdfc72b951e78, type: 3}
+  - {fileID: 21300000, guid: a2b8ca2c10f1d40659e2474aa9b8dc28, type: 3}
+  - {fileID: 21300000, guid: 7159f57c0b64f4db9a6df832f9974d74, type: 3}
+  - {fileID: 21300000, guid: 7814978c1e7a148d1a4d9e4e04911c2d, type: 3}
+  - {fileID: 21300000, guid: 2e4612bceb012428cbd0317fd668cfea, type: 3}
+  - {fileID: 21300000, guid: e016ecfc56a514fbcad862f0c7db2551, type: 3}
+  - {fileID: 21300000, guid: 1252370db40c34c89a13cb335fd6f948, type: 3}
+  - {fileID: 21300000, guid: a3d4d81dd86b44362a0dc0981c3e442c, type: 3}
+  - {fileID: 21300000, guid: 1c97c12d76cc645fa82afcece831ddad, type: 3}
+  - {fileID: 21300000, guid: 3f3e8f4db2fc64b2c972a2d9250f360d, type: 3}
+  - {fileID: 21300000, guid: c2eaa15dbb4fa400bac0c314e3257f89, type: 3}
+  - {fileID: 21300000, guid: 9296d65daf37f448295d6a2d20a0e98f, type: 3}
+  - {fileID: 21300000, guid: c9c9340e20d1247cd9d0d124fa52ddc6, type: 3}
+  - {fileID: 21300000, guid: 590e051e2d4c943159fd0e4047b7adf0, type: 3}
+  - {fileID: 21300000, guid: 26044e7eadcd743838142ddab4fbf8aa, type: 3}
+  - {fileID: 21300000, guid: 0ed2528e698814edd879969cf93e4b96, type: 3}
+  - {fileID: 21300000, guid: c710298e75acf4d85a2cc9948614a51a, type: 3}
+  - {fileID: 21300000, guid: 91354bbe2097f4c14bc6b868d3d978b6, type: 3}
+  - {fileID: 21300000, guid: f222a9cee44224ba1ac713818e814aef, type: 3}
+  - {fileID: 21300000, guid: 7f53b4fe8cd0e4ae6ae6b9b18b0d496f, type: 3}
+  - {fileID: 21300000, guid: 530b9cfe900a34977bf31cb69d29f4e6, type: 3}
+  - {fileID: 21300000, guid: b968dc3fafb6d412790ff35913b5749b, type: 3}
+  - {fileID: 21300000, guid: 4499c24f7fd074cd2a1ef9d79c9dc439, type: 3}
+  - {fileID: 21300000, guid: 1194a76fde3144f408bb2b1f8a28dd72, type: 3}
+  - {fileID: 21300000, guid: 345dc76f8eeec4a9a997f3b2f9870b04, type: 3}
+  - {fileID: 21300000, guid: a2afdabf438844e6286c31951d3d71ee, type: 3}
+  - {fileID: 21300000, guid: 9809a4cfbd501430e8a8d5a425393994, type: 3}
+  - {fileID: 21300000, guid: 88cc10ef2b55646dfbae3d0cd99c1a3a, type: 3}
+  - {fileID: 21300000, guid: c8db80ef49b4f4997a3c5788e55d429c, type: 3}
+  - {fileID: 21300000, guid: 882953ff5af414d5185b6f372b684938, type: 3}
+  - {fileID: 21300000, guid: 56a87affdf77e4275b721ca1581fcdd5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - FingerNailMask19_004
+  - FingerNailMask12_004
+  - FingerNailMask1_005
+  - FingerNailMask13_005
+  - FingerNailMask14_003
+  - FingerNailMask9_004
+  - FingerNailMask6_002
+  - FingerNailMask17_005
+  - FingerNailMask11_001
+  - FingerNailMask3_001
+  - FingerNailMask11_005
+  - FingerNailMask8_004
+  - FingerNailMask8_005
+  - FingerNailMask20_002
+  - FingerNailMask5_002
+  - FingerNailMask16_005
+  - FingerNailMask2_005
+  - FingerNailMask13_001
+  - FingerNailMask12_005
+  - FingerNailMask18_005
+  - FingerNailMask4_005
+  - FingerNailMask2_001
+  - FingerNailMask17_003
+  - FingerNailMask1_004
+  - FingerNailMask7_004
+  - FingerNailMask4_002
+  - FingerNailMask2_003
+  - FingerNailMask1_001
+  - FingerNailMask15_002
+  - FingerNailMask3_003
+  - FingerNailMask11_002
+  - FingerNailMask15_005
+  - FingerNailMask7_005
+  - FingerNailMask4_003
+  - FingerNailMask10_005
+  - FingerNailMask9_001
+  - FingerNailMask7_003
+  - FingerNailMask6_004
+  - FingerNailMask20_004
+  - FingerNailMask20_001
+  - FingerNailMask10_004
+  - FingerNailMask12_001
+  - FingerNailMask4_001
+  - FingerNailMask2_002
+  - FingerNailMask17_001
+  - FingerNailMask3_002
+  - FingerNailMask9_003
+  - FingerNailMask15_003
+  - FingerNailMask14_002
+  - FingerNailMask12_002
+  - FingerNailMask8_001
+  - FingerNailMask18_003
+  - FingerNailMask19_002
+  - FingerNailMask1_002
+  - FingerNailMask15_004
+  - FingerNailMask20_003
+  - FingerNailMask13_004
+  - FingerNailMask10_001
+  - FingerNailMask11_004
+  - FingerNailMask13_003
+  - FingerNailMask15_001
+  - FingerNailMask7_001
+  - FingerNailMask6_003
+  - FingerNailMask7_002
+  - FingerNailMask13_002
+  - FingerNailMask5_001
+  - FingerNailMask16_004
+  - FingerNailMask3_005
+  - FingerNailMask14_005
+  - FingerNailMask16_002
+  - FingerNailMask12_003
+  - FingerNailMask14_001
+  - FingerNailMask17_004
+  - FingerNailMask1_003
+  - FingerNailMask2_004
+  - FingerNailMask19_005
+  - FingerNailMask5_005
+  - FingerNailMask19_001
+  - FingerNailMask4_004
+  - FingerNailMask6_001
+  - FingerNailMask9_002
+  - FingerNailMask5_004
+  - FingerNailMask5_003
+  - FingerNailMask9_005
+  - FingerNailMask16_003
+  - FingerNailMask20_005
+  - FingerNailMask10_003
+  - FingerNailMask10_002
+  - FingerNailMask11_003
+  - FingerNailMask14_004
+  - FingerNailMask8_003
+  - FingerNailMask16_001
+  - FingerNailMask18_001
+  - FingerNailMask19_003
+  - FingerNailMask8_002
+  - FingerNailMask18_002
+  - FingerNailMask3_004
+  - FingerNailMask6_005
+  - FingerNailMask17_002
+  - FingerNailMask18_004
+  m_RenderDataMap: {}
+  m_Tag: FingerNailMaskSprites
+  m_IsVariant: 0

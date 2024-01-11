@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ToesNailMaskSprites
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 27089246a8a1f4a1b954af017d611ca0, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 58bba631322ee45d6ab5c33643af181d, type: 3}
+  - {fileID: 21300000, guid: 7e89d7f20c1e04d1ba68d1da9bbe6561, type: 3}
+  - {fileID: 21300000, guid: 565c9633f8d0349e3b92607887fe7c08, type: 3}
+  - {fileID: 21300000, guid: f7aad963589c448d8aae545a909d45fd, type: 3}
+  - {fileID: 21300000, guid: 07c6f22426de94fe88409590e61f707e, type: 3}
+  - {fileID: 21300000, guid: 1434f264e2b494e1b949c4178a4381ab, type: 3}
+  - {fileID: 21300000, guid: bb719e6438f5d451ea40dce766b78967, type: 3}
+  - {fileID: 21300000, guid: 86f22684934204702b48c205c73f9540, type: 3}
+  - {fileID: 21300000, guid: 5ac5cb840972045f6b2e436f8ac31ecd, type: 3}
+  - {fileID: 21300000, guid: 728ce294a34494f909443feb9f0a3d4d, type: 3}
+  - {fileID: 21300000, guid: 37360a45debf04a228849d7d8e23e74c, type: 3}
+  - {fileID: 21300000, guid: 83cd4fe6c41b64e1a8933fda1b445ab9, type: 3}
+  - {fileID: 21300000, guid: 5991666799c804b598edfd7d0f1b71cb, type: 3}
+  - {fileID: 21300000, guid: 5b4528482634d41bcbcf222f7b6736c2, type: 3}
+  - {fileID: 21300000, guid: 61ddfe2a74b0d4156a8b2468ff8f38dd, type: 3}
+  - {fileID: 21300000, guid: 101adcbaaf64c46c0ae84f54e62d7c0a, type: 3}
+  - {fileID: 21300000, guid: fb12534c59a1143e4a9930863d8f964e, type: 3}
+  - {fileID: 21300000, guid: a8107f7d2ca3d4ace83e1aa5479cea7e, type: 3}
+  - {fileID: 21300000, guid: 43cd48aef36754612b47c610098d7a1d, type: 3}
+  - {fileID: 21300000, guid: edc5062fdb81b4c069e185e98ef9f10d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ToesNailMask1_001
+  - ToesNailMask4_002
+  - ToesNailMask3_002
+  - ToesNailMask1_002
+  - ToesNailMask4_005
+  - ToesNailMask2_003
+  - ToesNailMask1_005
+  - ToesNailMask3_005
+  - ToesNailMask2_002
+  - ToesNailMask3_003
+  - ToesNailMask3_004
+  - ToesNailMask3_001
+  - ToesNailMask4_004
+  - ToesNailMask2_001
+  - ToesNailMask2_004
+  - ToesNailMask2_005
+  - ToesNailMask1_004
+  - ToesNailMask4_001
+  - ToesNailMask4_003
+  - ToesNailMask1_003
+  m_RenderDataMap: {}
+  m_Tag: ToesNailMaskSprites
+  m_IsVariant: 0

@@ -1,0 +1,447 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: Play
+      TermType: 0
+      Description: 
+      Languages:
+      - Play
+      - "\uD50C\uB808\uC774"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Option
+      TermType: 0
+      Description: 
+      Languages:
+      - Setting
+      - "\uC124\uC815"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: SoundOn
+      TermType: 0
+      Description: 
+      Languages:
+      - On
+      - "\uCF1C\uAE30"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: SoundOff
+      TermType: 0
+      Description: 
+      Languages:
+      - Off
+      - "\uB044\uAE30"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ok
+      TermType: 0
+      Description: 
+      Languages:
+      - Ok
+      - "\uD655\uC778"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Yes
+      TermType: 0
+      Description: 
+      Languages:
+      - Yes
+      - "\uC608"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: No
+      TermType: 0
+      Description: 
+      Languages:
+      - No
+      - "\uC544\uB2C8\uC624"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: AllClear
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Congratulations
+
+        You got All Rewards!!'
+      - "\uCD95\uD558\uD569\uB2C8\uB2E4.\n\uBAA8\uB4E0 \uBCF4\uC0C1\uC744 \uBC1B\uC558\uC2B5\uB2C8\uB2E4!!"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Delete
+      TermType: 0
+      Description: 
+      Languages:
+      - Would you like to delete it?
+      - "\uC815\uB9D0\uB85C \uC0AD\uC81C\uD558\uC2DC\uACA0\uC2B5\uB2C8\uAE4C?"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: QuestBtn
+      TermType: 0
+      Description: 
+      Languages:
+      - Nail Salon
+      - "\uC96C\uC96C\uC758 \uB124\uC77C\uC0B4\uB871"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: FreeBtn
+      TermType: 0
+      Description: 
+      Languages:
+      - FREE STYLE
+      - "\uD504\uB9AC \uC2A4\uD0C0\uC77C"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: AlbumBtn
+      TermType: 0
+      Description: 
+      Languages:
+      - ALBUM
+      - "\uC568\uBC94"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Manicure
+      TermType: 0
+      Description: 
+      Languages:
+      - MANICURE
+      - "\uB9E4\uB2C8\uD050\uC5B4"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Glittery
+      TermType: 0
+      Description: 
+      Languages:
+      - GLITTERY
+      - "\uAE00\uB9AC\uD130\uB9AC"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: PearlRainbow
+      TermType: 0
+      Description: 
+      Languages:
+      - PEARLRAINBOW
+      - "\uD384 \uB808\uC778\uBCF4\uC6B0"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Pattern
+      TermType: 0
+      Description: 
+      Languages:
+      - PATTERN
+      - "\uD328\uD134"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Jouju
+      TermType: 0
+      Description: 
+      Languages:
+      - JOUJU
+      - "\uC96C\uC96C"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Cindy
+      TermType: 0
+      Description: 
+      Languages:
+      - CINDY
+      - "\uC2E0\uB514"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Stella
+      TermType: 0
+      Description: 
+      Languages:
+      - STELLA
+      - "\uC2A4\uD154\uB77C"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Jenny
+      TermType: 0
+      Description: 
+      Languages:
+      - JENNY
+      - "\uC81C\uB2C8"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Jenna
+      TermType: 0
+      Description: 
+      Languages:
+      - JENNA
+      - "\uC81C\uB098"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Spica
+      TermType: 0
+      Description: 
+      Languages:
+      - SPICA
+      - "\uC2A4\uD53C\uCE74"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Yuni
+      TermType: 0
+      Description: 
+      Languages:
+      - YUNI
+      - "\uC720\uB2C8"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Sua
+      TermType: 0
+      Description: 
+      Languages:
+      - SU-A
+      - "\uC218\uC544"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Cynthia
+      TermType: 0
+      Description: 
+      Languages:
+      - CYNTHIA
+      - "\uC2E0\uC2DC\uC544"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tara
+      TermType: 0
+      Description: 
+      Languages:
+      - TARA
+      - "\uD0C0\uB77C"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Dyna
+      TermType: 0
+      Description: 
+      Languages:
+      - DYNA
+      - "\uB2E4\uC774\uB098"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Helen
+      TermType: 0
+      Description: 
+      Languages:
+      - HELEN
+      - "\uD5EC\uB80C"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Polaris
+      TermType: 0
+      Description: 
+      Languages:
+      - POLARIS
+      - "\uD3F4\uB77C\uB9AC\uC2A4"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Rora
+      TermType: 0
+      Description: 
+      Languages:
+      - RORA
+      - "\uB85C\uB77C"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Mary
+      TermType: 0
+      Description: 
+      Languages:
+      - MARY
+      - "\uB9C8\uB9AC"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Friends
+      TermType: 0
+      Description: 
+      Languages:
+      - FRIENDS
+      - "\uCE5C\uAD6C\uB4E4"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Pet
+      TermType: 0
+      Description: 
+      Languages:
+      - PET
+      - "\uD3AB"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Item
+      TermType: 0
+      Description: 
+      Languages:
+      - ITEM
+      - "\uC544\uC774\uD15C"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Basic
+      TermType: 0
+      Description: 
+      Languages:
+      - BASIC
+      - "\uAE30\uBCF8"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: PET
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: ITEM
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: FRIENDS
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: TARA
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: RORA
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: MANICURE
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: GLITTERY
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: PEARLRAINBOW
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: PATTERN
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: English
+      Code: en
+      Flags: 0
+    - Name: Korean
+      Code: ko
+      Flags: 0
+    - Name: Description
+      Code: 
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: https://script.google.com/macros/s/AKfycbwbZcq1Xja1PQ15JSM1yEOOVyzIvscPFUMATVW9mn-NFMQcR5M/exec
+    Google_SpreadsheetKey: 1TAxjDbdGGHctMin942y25iy8qIutySOzbWeFezq1YK4
+    Google_SpreadsheetName: I2Loc Nail Salon 1 Localization
+    Google_LastUpdatedVersion: 1702886339754
+    Google_Password: '@@ondot5w7ju'
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets: []
+    Spreadsheet_LocalFileName: 
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1
+    Spreadsheet_SortRows: 1

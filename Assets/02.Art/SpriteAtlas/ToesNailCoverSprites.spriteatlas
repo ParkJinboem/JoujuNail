@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ToesNailCoverSprites
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: d63b7e6dfa8404476a1ca2cfac188e79, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d50f244063bd64f0f86f75bbd4c0e943, type: 3}
+  - {fileID: 21300000, guid: ed9f50c0bad86418ca605fc97c1a7cd0, type: 3}
+  - {fileID: 21300000, guid: 8e6b4af0cf1634c12b4c128e1a55b0e9, type: 3}
+  - {fileID: 21300000, guid: 952e70a106c444d86aadcb3abddc4c12, type: 3}
+  - {fileID: 21300000, guid: 3caa0513705b54f9eaaf2afa536b5809, type: 3}
+  - {fileID: 21300000, guid: 1b584895c81754a3ea0a8a0f232f91f2, type: 3}
+  - {fileID: 21300000, guid: d849ea06f1f91412b88a8ad0fe467f86, type: 3}
+  - {fileID: 21300000, guid: 59f2736753aa74bf49d81a316f58b113, type: 3}
+  - {fileID: 21300000, guid: 0bc618873df6b4fd7962f3792784890c, type: 3}
+  - {fileID: 21300000, guid: b32f777a6b0f649e89b17de2b964ac96, type: 3}
+  - {fileID: 21300000, guid: 0fcb5f6c959324aab85f24d487bba17e, type: 3}
+  - {fileID: 21300000, guid: 1334898da602346d48a1c0751ebc6460, type: 3}
+  - {fileID: 21300000, guid: edbb19ad6e91f45d4a9371bc235bffce, type: 3}
+  - {fileID: 21300000, guid: f82490cdd10d14fcdb1b80a933480805, type: 3}
+  - {fileID: 21300000, guid: 440c5c3e65d694db8a039dc524caef1f, type: 3}
+  - {fileID: 21300000, guid: bb47b84ee20ba45e5b62720b3aeab13a, type: 3}
+  - {fileID: 21300000, guid: 7daa025eff6144f9c97214316aae5c91, type: 3}
+  - {fileID: 21300000, guid: 6c18d8dece26144999cbad2f540a80ef, type: 3}
+  - {fileID: 21300000, guid: 7268010fbcedb4f18928c05836a0e40e, type: 3}
+  - {fileID: 21300000, guid: f7eef1ef2ccab43c4827d380b94a82e3, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ToesNailCover1_001
+  - ToesNailCover4_002
+  - ToesNailCover4_001
+  - ToesNailCover2_002
+  - ToesNailCover3_005
+  - ToesNailCover1_002
+  - ToesNailCover2_004
+  - ToesNailCover3_001
+  - ToesNailCover3_003
+  - ToesNailCover2_001
+  - ToesNailCover4_005
+  - ToesNailCover2_005
+  - ToesNailCover4_004
+  - ToesNailCover4_003
+  - ToesNailCover3_004
+  - ToesNailCover1_003
+  - ToesNailCover1_004
+  - ToesNailCover2_003
+  - ToesNailCover3_002
+  - ToesNailCover1_005
+  m_RenderDataMap: {}
+  m_Tag: ToesNailCoverSprites
+  m_IsVariant: 0
